@@ -1,0 +1,18 @@
+# Fundamentos de Git
+priemros comandos de Git
+
+### git init
+creacion de repositorio local 
+
+### git config --global user.name "nombreusuario"
+definir el nombre del usuario que va a interatuar con git desde el pc
+
+### git config --global user.email "correousuario"
+definir el correo del usuario que va a interactuar con el git desde el pc
+
+### git status
+revisar el estado del repositorio del local 
+
+### git add nombrearchivo
+añadir los cambios a stage del archivo determinado 
+
